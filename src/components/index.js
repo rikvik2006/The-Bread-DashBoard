@@ -1,3 +1,3 @@
-export { default as Home } from "./Home/Home";
-export { default as Legal } from "./legal";
-export { default as PrivacyPolicy } from "./PrivacyPolicy/PrivacyPolicy";
+export { default as Home } from "./pages/Home/Home";
+export { default as Legal } from "./pages/legal/legal";
+export { default as PrivacyPolicy } from "./pages/PrivacyPolicy/PrivacyPolicy";

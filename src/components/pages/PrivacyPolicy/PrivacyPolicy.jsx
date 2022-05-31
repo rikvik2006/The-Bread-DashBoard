@@ -8,7 +8,7 @@ export default function PrivacyPolicy() {
     function latestUpdate() {
         new Date(document.lastModified)
     }
-
+    
     return (
         <>
             <div className="container-sm">
@@ -41,7 +41,10 @@ export default function PrivacyPolicy() {
                     <p>If you have any questions or are concerned about what data might be being stored from your account contact <a href="mailto:breadbot.itsnot.mee6@gmail.com">breadbot.itsnot.mee6@gmail.com</a>. For more information check the <a href="https://discord.com/terms">Discord Terms Of Service</a>.</p>
 
                     <hr className='myLine' />
-                    <div className="footer">Latest update: {latestUpdate}</div>
+                    <div className="footer">
+                        <p>Latest update: May 31 2022</p>
+                        <p>Retun to <a href="/">home</a></p>
+                    </div>
 
                 </div>
             </div>

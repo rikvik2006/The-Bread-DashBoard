@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import { Home, Legal, PrivacyPolicy } from "./components";
+import { Home, Legal, PrivacyPolicy} from "./components";
 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 

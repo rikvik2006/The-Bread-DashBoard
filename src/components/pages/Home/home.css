@@ -1,0 +1,20 @@
+
+body {
+    background: rgb(39, 41, 52);
+}
+
+.box {
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+.weArriveSoon {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color: black; /*  rgb(242, 244, 251); */
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 75px 0;
+}
