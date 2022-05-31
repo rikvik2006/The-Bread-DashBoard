@@ -40,6 +40,10 @@ export default function PrivacyPolicy() {
                     <div className="faxSimileH2">Questions</div>
                     <p>If you have any questions or are concerned about what data might be being stored from your account contact <a href="mailto:breadbot.itsnot.mee6@gmail.com">breadbot.itsnot.mee6@gmail.com</a>. For more information check the <a href="https://discord.com/terms">Discord Terms Of Service</a>.</p>
 
+                    <hr className="myLine" />
+                    <div className="faxSimileH2">Contact info</div>
+                    <p>Email: <a href="mailto:breadbot.itsnot.mee6@gmail.com">breadbot.itsnot.mee6@gmail.com</a></p>
+
                     <hr className='myLine' />
                     <div className="footer">
                         <p>Latest update: May 31 2022</p>
