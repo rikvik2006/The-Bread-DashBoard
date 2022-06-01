@@ -34,13 +34,13 @@ hr.myLine {
     color: #3F3F3F; 
     margin-top: 21px;
 }
-div.data-deletion a {
+div.privacy-policy a {
     text-decoration: none; 
     color: #333b43;
     border-bottom: 1px solid #f0f0f0;
 }
 
-div.data-deletion a:hover {
+div.privacy-policy a:hover {
     text-decoration: none; 
     color: #333b43;
     
@@ -54,10 +54,4 @@ div.data-deletion a:hover {
 .footer p {
     margin: 10px 0;
     font-size: 11px
-}
-
-.dataDeletionItems {
-    font-size: 13px;
-    color: #6B6B6B;
-    margin: 10px 0;
 }

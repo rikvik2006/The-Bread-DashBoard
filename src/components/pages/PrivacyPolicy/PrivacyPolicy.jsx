@@ -30,7 +30,7 @@ export default function PrivacyPolicy() {
 
                     <hr className='myLine' />
                     <div className="faxSimileH2">User Rights</div>
-                    At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the <a href="https://discord.gg/AMs7ZCy72a">Discord Server</a>.
+                    <p>At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the <a href="https://discord.gg/AMs7ZCy72a">Discord Server</a>.</p>
 
                     <hr className='myLine' />
                     <div className="faxSimileH2">Underage Users</div>
