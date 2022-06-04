@@ -34,13 +34,13 @@ hr.myLine {
     color: #3F3F3F; 
     margin-top: 21px;
 }
-div.terms-of-service a {
+div.data-deletion a {
     text-decoration: none; 
     color: #333b43;
     border-bottom: 1px solid #f0f0f0;
 }
 
-div.terms-of-service a:hover {
+div.data-deletion a:hover {
     text-decoration: none; 
     color: #333b43;
     

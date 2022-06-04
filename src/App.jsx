@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import { DataDeletion, Home, Legal, PrivacyPolicy} from "./components";
+import { DataDeletion, Home, TermsOfService, PrivacyPolicy} from "./components";
 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
@@ -12,9 +12,9 @@ function App() {
       <Router>
         <Routes>
           <Route exact path="/" element={<Home/>} />
-          <Route exact path="/legal" element={<Legal/>} />
           <Route exact path="/privacy-policy" element={<PrivacyPolicy/>} />
           <Route exact path="/request-data-deletion" element={<DataDeletion/>} />
+          <Route exact path="/terms-of-service" element={<TermsOfService/>} />
         </Routes>
       </Router>
     </div>
