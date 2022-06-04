@@ -9,7 +9,7 @@ export default function TermsOfService() {
           <div className="faxSimileH1"><span>Bread it's not mee6</span> terms of service</div>
           <div className="faxSimileH2">Usage Agreement</div>
           <p>By inviting the bot and using its features are you agreeing to the <a href="./privacy-policy">Terms and Privacy Policy</a> of the bot.</p>
-          <p>You acknowledge that you have the priviledge to use the bot freely on any Discord Server (Server) you share with it, that you can invite it to any Server that you have "Manage Server" rights for and that this priviledge might get revoked for you, if you're subject of breaking the terms and/or policy of this bot, or the <a href="https://discord.com/terms">Terms of Service</a>, <a href="https://discord.com/privacy">Privacy Policy</a> and/or <a href="https://discord.com/guidelines">Community Guidelines</a> of <a href="https://discord.com/">Discord Inc</a>.</p>
+          <p>You acknowledge that you have the priviledge to use the bot freely on any Discord Server you share with it, that you can invite it to any Server that you have "Manage Server" rights for and that this priviledge might get revoked for you, if you're subject of breaking the terms and/or policy of this bot, or the <a href="https://discord.com/terms">Terms of Service</a>, <a href="https://discord.com/privacy">Privacy Policy</a> and/or <a href="https://discord.com/guidelines">Community Guidelines</a> of <a href="https://discord.com/">Discord Inc</a>.</p>
           <p>Through Inviting the bot may it collect specific data as described in its Policy.
             The intended usage of this data is for core functionalities of the bot (eg. Toxic Detector)</p>
 
